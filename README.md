@@ -1,5 +1,4 @@
 ## Learning React.js
-a first dive into building Web Applications
 
 I'll be using Stoyan Stefanov's _React Up & Running: Building Web Applications_ as an introduction to building web applications with JavaScript and will be sharing notes and project exercises as I work through the textbook.
 
@@ -10,6 +9,7 @@ What excites me the most about learning to use React is summed up by Facebook's 
 — _Tom Occhino_, React.js Conf 2015 — [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4?t=29m15s)
 
 
+---
 
 
 ### Resources
@@ -18,6 +18,7 @@ Textbook: [React Up & Running: Building Web Applications](https://www.amazon.com
 Author: [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 
 
+---
 
 
 _Thursday September 8, 2016_
