@@ -15,10 +15,11 @@ What excites me the most about learning to use React is summed up by Facebook's 
 ### Resources
 
 Textbook: [React Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
+
 Author: [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 
 
 ---
 
 
-_Thursday September 8, 2016_
+Start Date: _Thursday September 8, 2016_
